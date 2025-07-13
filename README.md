@@ -1,3 +1,3 @@
 # RL-TSP
-A reinforced learning approach for TSP.
+A reinforcement learning approach for TSP.
 See more in `README-zh.md`.
